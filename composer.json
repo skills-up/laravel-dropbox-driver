@@ -16,7 +16,6 @@
     "keywords": ["driver", "dropbox", "laravel", "storage"],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^9.0",
         "spatie/flysystem-dropbox": "^2.0"
     },
     "require-dev": {
